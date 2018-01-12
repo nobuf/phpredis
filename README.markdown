@@ -1007,8 +1007,8 @@ _**Description**_:  Scan the keyspace for keys
 
 ##### *Parameters*
 
-*LONG (reference)*:  Iterator, initialized to NULL
-*STRING, Optional*:  Pattern to match
+*LONG (reference)*:  Iterator, initialized to NULL  
+*STRING, Optional*:  Pattern to match  
 *LONG, Optional*: Count of keys per iteration (only a suggestion to Redis)
 
 ##### *Return value*
